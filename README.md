@@ -12,8 +12,6 @@ Hi, I'm Sulaiman Babatunde 🙌, a Full-Stack Developer, Chatbot Developer, Web3
 - 👯 Part of a Developer Team.
 - 💬 Ask me about anything, I would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platforms i provided. Prefarably linkedin
-- 
-<a href="https://www.linkedin.com/in/sulaiman-babatunde-28789b145?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> <img align="left" alt="Sulaiman Babatunde" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 ## Community
 
 - Stellar Developers Community
