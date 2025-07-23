@@ -11,7 +11,8 @@ Hi, I'm Sulaiman Babatunde 🙌, a Full-Stack Developer, Chatbot Developer, Web3
 - 🔭 This is my personal github account for public and private projects. Often i use a (work) private gitea account for day to day tasks.
 - 👯 Part of a Developer Team.
 - 💬 Ask me about anything, I would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platforms i provided. Prefarably linkedin
+- 📫 How to reach me: email: desk@olatechdev.com
+- website: [Olatech Global Enterprise](https://olatechdev.com)
 ## Community
 
 - Stellar Developers Community
