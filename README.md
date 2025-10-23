@@ -7,7 +7,7 @@ Hi, I'm Sulaiman Babatunde 🙌, a Cloud (DevOps) engineer,Full-Stack Developer,
 
 ## Personal Info:
 
-- 🔭 Founder and CTO of Olatech Global ENterprise. I created 'Bint Pro' our first SaaS to ease administrative task for businesses (Bint Pro is an AI powwered booking software that providers soft landing pages for local businesses of all kind. Seemless booking structure, service management, direct and escrow service payment methods. Pretty cool stuff, join us  [Bint Pro](https://bint.pro) ).
+- 🔭 Founder and CTO of Olatech Global ENterprise. I created 'Bint Pro' our first SaaS to ease administrative task for businesses (Bint Pro is an AI powwered booking software that providers soft landing pages for local businesses of all kind. Seemless booking structure, service management, direct and escrow service payment methods. Pretty cool stuff, join us  [Bint Pro](https://bint.pro) )..
 - 🔭 This is my personal github account for public and private projects. Often i use a (work) private gitea account for day to day tasks.
 - 👯 Part of a Developer Team.
 - 💬 Ask me about anything, I would love to answer them.✌
